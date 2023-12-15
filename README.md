@@ -13,7 +13,13 @@
 
 Обнаружение замыкания цикла с использованием алгоритмов сопоставления облаков точек в LiDAR данных часто включает в себя различные методы и библиотеки. Вот несколько библиотек и инструментов, которые могут использоваться для этой задачи:
 
-
+* [ov2slam](https://github.com/ov2slam/ov2slam) - это алгоритм Visual SLAM, работающий в режиме реального времени
+* [FLOAM](https://github.com/wh200720041/floam) - быстрый LOAM(Lidar Odometry And Mapping).
+* [ISCLOAM](https://github.com/wh200720041/iscloam) - Данная работа представляет собой реализацию "Intensity Scan Context: Coding Intensity and Geometry Relations for Loop Closure Detection".
+* [MULLS](https://github.com/YuePanEdward/MULLS) - В этом репозитории реализована MULLS, эффективная, универсальная и универсальная система SLAM с малым дрейфом, работающая только с LiDAR.
+* [KISS-ICP](https://github.com/PRBonn/kiss-icp) - LiDAR Odometry, который работает в большинстве случаев без настройки каких-либо параметров.
+* [Traj-LO](https://github.com/kevin2431/Traj-LO) - LiDAR с использованием эффективной траектории непрерывного времени.
+* [CT-ICP](https://github.com/jedeschaud/ct_icp) - в этом репозитории реализован SLAM CT-ICP, легкая, точная и универсальная одометрическая система LiDAR.
 * [Vision-Enhanced Lidar Odometry and Mapping](https://github.com/lichunshang/vision-enhanced-lidar-odometry) - это новый алгоритм одновременной локализации и картографирования с использованием набора камер и лидара.
 * [libpointmatcher](https://github.com/norlab-ulaval/libpointmatcher) - это библиотека на C++ для сопоставления облаков точек с поддержкой различных методов сопоставления.
 
