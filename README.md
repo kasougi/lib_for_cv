@@ -19,6 +19,5 @@
 
 ## Использование машинного обучения
 
-* [LeGO-LOAM (Lidar Odometry and Mapping in Robotics)](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - это метод для решения задач SLAM с использованием данных LiDAR. Он может использоваться для обнаружения замыкания цикла, и включает в себя методы машинного обучения.
 * [BoW3D](https://github.com/YungeCui/BoW3D)  - нейронная сеть, для обнаружения замыкания цикла в реальном времени.
 * [OverlapNet](https://github.com/PRBonn/OverlapNet) - нейронная сеть для обработки данных LiDAR. Он может использоваться для обнаружения замыкания цикла.
